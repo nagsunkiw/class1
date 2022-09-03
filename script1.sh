@@ -1,2 +1,2 @@
-!#/bin/bash
-echo "hello world"
+chmod 777 ./my_script.sh
+./my_script.sh
